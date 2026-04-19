@@ -1,27 +1,9 @@
- My Portfolio Website
+This is my first project, originally built during my first year of college.
 
-This is my first portfolio website built using HTML and CSS and deployed using GitHub Pages.
+At that time, I hadn’t created my GitHub account, so I’m uploading it now to document my journey and show my progress.
 
- Live Website
-https://arsh-code03.github.io/portfolio-html/
+This is just the beginning — more projects are coming.
 
-Features
+Watch me grow.
 
-- Clean and simple portfolio layout
-- About Me section
-- Skills section
-- Projects section
-- Contact section
-- Responsive basic design
-
- Technologies Used
-- HTML5
-- CSS
-
-Future Improvements
-- Add JavaScript for interactivity
-- Improve UI/UX design
-- Add animations and transitions
-
-Author
-Arsh Kumar
+watch me becoming successful
